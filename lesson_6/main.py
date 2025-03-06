@@ -26,6 +26,6 @@ git push -u origin master
 git pull origin master/main
 git clone <HTTPS link.git>
 git checkout -b origin <название ветки> / создает ветку  
-git checkout -d origin <название ветки> / удаляет ветку
+git branch -d  <название ветки> / удаляет ветку
 
 """
